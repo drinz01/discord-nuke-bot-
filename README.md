@@ -1,2 +1,3 @@
-# discord-nuke-bot-
-retarded nuke bot thats outdated asf
+# old outdated discord nukers 
+dont even bother trying they probably dont work 
+
