@@ -8,8 +8,8 @@ from webserver import keep_alive
 token = "TOKEN"
 
 
-SPAM_CHANNEL =  [" drinz is god" , "sucks to be u" , "imagne being nuked" ,"drinz owns!1!","clown","drinz is daddy","Nuked by Drinz "]
-SPAM_MESSAGE = ["@everyone EXETER JOIN: https://discord.gg/mm"]
+SPAM_CHANNEL =  [""]
+SPAM_MESSAGE = [""]
 
 client = commands.Bot(command_prefix="!")
 
